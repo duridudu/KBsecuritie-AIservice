@@ -8,4 +8,4 @@
 1. Run `runSL_12am.ipynb` after a day start (12:00 am) 
 2. Run `runSL_4pm.ipynb` after the stock market closed (around 4:00 pm), then you can check app user's toto service score
 ## About App
-You can check `app.zip` file
+You can check `app.zip` file and '출품작 설명' file
